@@ -1,4 +1,4 @@
-from flask import Flask
+from flask import Flask, jsonify
 from flask_sqlalchemy import SQLAlchemy
 from os import environ
 
@@ -9,12 +9,37 @@ db = SQLAlchemy(app)
 
 class MMR(db.Model):
     id = db.Column(db.Integer, primary_key=True)
-    State
+    State = db.Column(db.String)
+    State_Code = db.Column(db.Integer)
+    Year = db.Column(db.Integer)
+    Deaths = db.Column(db.Integer)
+    Births = db.Column(db.Integer)
+    Maternal_Mortality_Ratio = db.Column(db.Integer)
+    Population = db.Column(db.Integer)
 
 
 @app.route('/')
 def index():
     return "Hello World"
+
+@app.route('/api/cdc-mmr') 
+def  cdcPostGres():
+    mmr = db.session.query(MMR)
+    data = []
+
+    for mmr in mmr: 
+        item = {
+             'id': mmr.id, 
+             'State': mmr.State,
+             'State_Code': mmr.State_Code, 
+             'Year': mmr.Year, 
+             'Deaths': mmr.Deaths, 
+             'Births': mmr.Births,
+             'Maternal_Mortality_Ratio': mmr.Maternal_Mortality_Ratio,
+             'Population': mmr.Population
+        }
+        data.append(item)
+    return jsonify(data)
 
 if __name__ == '__main__':
     app.run(debug=True)
