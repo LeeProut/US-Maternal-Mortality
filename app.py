@@ -1,4 +1,4 @@
-from flask import Flask, jsonify
+from flask import Flask, jsonify, render_template
 from flask_sqlalchemy import SQLAlchemy
 from os import environ
 
@@ -20,7 +20,7 @@ class MMR(db.Model):
 
 @app.route('/')
 def index():
-    return "Hello World"
+    return render_template('index.html')
 
 @app.route('/api/cdc-mmr') 
 def  cdcPostGres():
