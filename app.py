@@ -1,6 +1,7 @@
-from flask import Flask, jsonify, render_template
+from flask import Flask, jsonify, render_template, request
 from flask_sqlalchemy import SQLAlchemy
 from os import environ
+import json
 
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = environ.get('DATABASE_URL', 'sqlite:///maternal.sqlite')
@@ -40,6 +41,22 @@ def  cdcPostGres():
         }
         data.append(item)
     return jsonify(data)
+
+@app.route('/api/cdc-mmr', methods=('POST',))
+def createMMR():
+    data = json.loads(request.data)
+    mmr = MMR(State=data['State'])
+
+    db.session.add(mmr)
+    db.session.commit()
+    return data  
+
+@app.route('/api/cdc-mmr/<id>', methods=('DELETE',))
+def deleteState(id):
+    mmr = db.session.query(MMR).get(id)
+    db.session.delete(mmr) 
+    db.session.commit()
+    return id  
 
 if __name__ == '__main__':
     app.run(debug=True)
