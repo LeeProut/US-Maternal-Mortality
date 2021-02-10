@@ -1,4 +1,4 @@
-Location,Year,Employer,Non-Group,Medicaid,Medicare,Military,Uninsured,Total
+location,year,employer,non_group,medicaid,medicare,military,uninsured,total
 Alabama,2009,58.60,6.10,11.40,3.50,2.20,18.20,100.00
 Alaska,2009,56.70,4.20,10.10,0.00,5.60,22.70,100.00
 Arizona,2009,53.80,6.90,15.50,2.00,1.70,20.10,100.00

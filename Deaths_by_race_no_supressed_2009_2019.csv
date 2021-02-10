@@ -1,0 +1,460 @@
+﻿Notes,State,State Code,Race,Race Code,Hispanic Origin,Hispanic Origin Code,Year,Year Code,Deaths,Population,Crude Rate
+,Alabama,1,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2016,2016,14,700774,Unreliable
+,Alabama,1,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2017,2017,25,704201,3.6
+,Alabama,1,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2018,2018,14,706754,Unreliable
+,Alabama,1,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2019,2019,15,709544,Unreliable
+,Alabama,1,White,2106-3,Not Hispanic or Latino,2186-2,2016,2016,18,1656840,Unreliable
+,Alabama,1,White,2106-3,Not Hispanic or Latino,2186-2,2017,2017,15,1655605,Unreliable
+,Alabama,1,White,2106-3,Not Hispanic or Latino,2186-2,2018,2018,16,1657262,Unreliable
+,Alabama,1,White,2106-3,Not Hispanic or Latino,2186-2,2019,2019,17,1660160,Unreliable
+,Arizona,4,White,2106-3,Hispanic or Latino,2135-2,2018,2018,10,1025281,Unreliable
+,Arizona,4,White,2106-3,Hispanic or Latino,2135-2,2019,2019,10,1045722,Unreliable
+,Arizona,4,White,2106-3,Not Hispanic or Latino,2186-2,2013,2013,13,1933075,Unreliable
+,Arizona,4,White,2106-3,Not Hispanic or Latino,2186-2,2014,2014,12,1947854,Unreliable
+,Arizona,4,White,2106-3,Not Hispanic or Latino,2186-2,2016,2016,11,1981039,Unreliable
+,Arizona,4,White,2106-3,Not Hispanic or Latino,2186-2,2017,2017,12,1982444,Unreliable
+,Arizona,4,White,2106-3,Not Hispanic or Latino,2186-2,2018,2018,10,2010606,Unreliable
+,Arkansas,5,White,2106-3,Not Hispanic or Latino,2186-2,2009,2009,12,1118853,Unreliable
+,Arkansas,5,White,2106-3,Not Hispanic or Latino,2186-2,2012,2012,11,1125545,Unreliable
+,Arkansas,5,White,2106-3,Not Hispanic or Latino,2186-2,2014,2014,17,1124020,Unreliable
+,Arkansas,5,White,2106-3,Not Hispanic or Latino,2186-2,2016,2016,12,1124971,Unreliable
+,Arkansas,5,White,2106-3,Not Hispanic or Latino,2186-2,2018,2018,10,1125656,Unreliable
+,California,6,Asian or Pacific Islander,A-PI,Not Hispanic or Latino,2186-2,2010,2010,11,2720149,Unreliable
+,California,6,Asian or Pacific Islander,A-PI,Not Hispanic or Latino,2186-2,2013,2013,10,2922740,Unreliable
+,California,6,Asian or Pacific Islander,A-PI,Not Hispanic or Latino,2186-2,2014,2014,11,3022849,Unreliable
+,California,6,Asian or Pacific Islander,A-PI,Not Hispanic or Latino,2186-2,2016,2016,16,3146884,Unreliable
+,California,6,Asian or Pacific Islander,A-PI,Not Hispanic or Latino,2186-2,2018,2018,14,3278357,Unreliable
+,California,6,Asian or Pacific Islander,A-PI,Not Hispanic or Latino,2186-2,2019,2019,13,3304759,Unreliable
+,California,6,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2009,2009,17,1192173,Unreliable
+,California,6,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2010,2010,15,1195959,Unreliable
+,California,6,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2011,2011,17,1203335,Unreliable
+,California,6,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2012,2012,14,1209540,Unreliable
+,California,6,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2013,2013,19,1213314,Unreliable
+,California,6,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2014,2014,20,1223144,1.6
+,California,6,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2015,2015,18,1227879,Unreliable
+,California,6,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2016,2016,12,1227267,Unreliable
+,California,6,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2017,2017,19,1228739,Unreliable
+,California,6,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2018,2018,12,1229255,Unreliable
+,California,6,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2019,2019,11,1228618,Unreliable
+,California,6,White,2106-3,Hispanic or Latino,2135-2,2009,2009,54,6226657,0.9
+,California,6,White,2106-3,Hispanic or Latino,2135-2,2010,2010,37,6325444,0.6
+,California,6,White,2106-3,Hispanic or Latino,2135-2,2011,2011,21,6471462,0.3
+,California,6,White,2106-3,Hispanic or Latino,2135-2,2012,2012,34,6555746,0.5
+,California,6,White,2106-3,Hispanic or Latino,2135-2,2013,2013,23,6640758,0.3
+,California,6,White,2106-3,Hispanic or Latino,2135-2,2014,2014,32,6795658,0.5
+,California,6,White,2106-3,Hispanic or Latino,2135-2,2015,2015,29,6889655,0.4
+,California,6,White,2106-3,Hispanic or Latino,2135-2,2016,2016,42,6936321,0.6
+,California,6,White,2106-3,Hispanic or Latino,2135-2,2017,2017,41,7021336,0.6
+,California,6,White,2106-3,Hispanic or Latino,2135-2,2018,2018,31,7048159,0.4
+,California,6,White,2106-3,Hispanic or Latino,2135-2,2019,2019,26,7070429,0.4
+,California,6,White,2106-3,Not Hispanic or Latino,2186-2,2009,2009,28,7808938,0.4
+,California,6,White,2106-3,Not Hispanic or Latino,2186-2,2010,2010,18,7780118,Unreliable
+,California,6,White,2106-3,Not Hispanic or Latino,2186-2,2011,2011,23,7757084,0.3
+,California,6,White,2106-3,Not Hispanic or Latino,2186-2,2012,2012,25,7755188,0.3
+,California,6,White,2106-3,Not Hispanic or Latino,2186-2,2013,2013,25,7743548,0.3
+,California,6,White,2106-3,Not Hispanic or Latino,2186-2,2014,2014,24,7734375,0.3
+,California,6,White,2106-3,Not Hispanic or Latino,2186-2,2015,2015,28,7714126,0.4
+,California,6,White,2106-3,Not Hispanic or Latino,2186-2,2016,2016,21,7677407,0.3
+,California,6,White,2106-3,Not Hispanic or Latino,2186-2,2017,2017,21,7621430,0.3
+,California,6,White,2106-3,Not Hispanic or Latino,2186-2,2018,2018,22,7557495,0.3
+,California,6,White,2106-3,Not Hispanic or Latino,2186-2,2019,2019,19,7486232,Unreliable
+,Colorado,8,White,2106-3,Not Hispanic or Latino,2186-2,2014,2014,12,1875601,Unreliable
+,Florida,12,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2009,2009,24,1515660,1.6
+,Florida,12,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2010,2010,20,1532970,1.3
+,Florida,12,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2011,2011,25,1562242,1.6
+,Florida,12,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2012,2012,31,1593954,1.9
+,Florida,12,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2013,2013,27,1619782,1.7
+,Florida,12,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2014,2014,25,1656077,1.5
+,Florida,12,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2015,2015,24,1690468,1.4
+,Florida,12,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2016,2016,16,1716677,Unreliable
+,Florida,12,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2017,2017,21,1750334,1.2
+,Florida,12,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2018,2018,17,1771878,Unreliable
+,Florida,12,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2019,2019,28,1788071,1.6
+,Florida,12,White,2106-3,Hispanic or Latino,2135-2,2009,2009,17,1940069,Unreliable
+,Florida,12,White,2106-3,Hispanic or Latino,2135-2,2013,2013,22,2163124,1
+,Florida,12,White,2106-3,Hispanic or Latino,2135-2,2017,2017,11,2519258,Unreliable
+,Florida,12,White,2106-3,Hispanic or Latino,2135-2,2018,2018,10,2605269,Unreliable
+,Florida,12,White,2106-3,Not Hispanic or Latino,2186-2,2009,2009,29,5641301,0.5
+,Florida,12,White,2106-3,Not Hispanic or Latino,2186-2,2010,2010,18,5642356,Unreliable
+,Florida,12,White,2106-3,Not Hispanic or Latino,2186-2,2011,2011,17,5664302,Unreliable
+,Florida,12,White,2106-3,Not Hispanic or Latino,2186-2,2012,2012,26,5688665,0.5
+,Florida,12,White,2106-3,Not Hispanic or Latino,2186-2,2013,2013,31,5705867,0.5
+,Florida,12,White,2106-3,Not Hispanic or Latino,2186-2,2014,2014,24,5742730,0.4
+,Florida,12,White,2106-3,Not Hispanic or Latino,2186-2,2015,2015,33,5800614,0.6
+,Florida,12,White,2106-3,Not Hispanic or Latino,2186-2,2016,2016,25,5858998,0.4
+,Florida,12,White,2106-3,Not Hispanic or Latino,2186-2,2017,2017,15,5873116,Unreliable
+,Florida,12,White,2106-3,Not Hispanic or Latino,2186-2,2018,2018,22,5905899,0.4
+,Florida,12,White,2106-3,Not Hispanic or Latino,2186-2,2019,2019,30,5929560,0.5
+,Georgia,13,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2009,2009,26,1566722,1.7
+,Georgia,13,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2010,2010,23,1584512,1.5
+,Georgia,13,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2011,2011,28,1606713,1.7
+,Georgia,13,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2012,2012,24,1631376,1.5
+,Georgia,13,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2013,2013,38,1654781,2.3
+,Georgia,13,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2014,2014,46,1683287,2.7
+,Georgia,13,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2015,2015,48,1715008,2.8
+,Georgia,13,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2016,2016,40,1748715,2.3
+,Georgia,13,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2017,2017,44,1780258,2.5
+,Georgia,13,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2018,2018,35,1806836,1.9
+,Georgia,13,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2019,2019,44,1833387,2.4
+,Georgia,13,White,2106-3,Not Hispanic or Latino,2186-2,2010,2010,11,2793451,Unreliable
+,Georgia,13,White,2106-3,Not Hispanic or Latino,2186-2,2011,2011,16,2801287,Unreliable
+,Georgia,13,White,2106-3,Not Hispanic or Latino,2186-2,2012,2012,13,2812985,Unreliable
+,Georgia,13,White,2106-3,Not Hispanic or Latino,2186-2,2013,2013,39,2817791,1.4
+,Georgia,13,White,2106-3,Not Hispanic or Latino,2186-2,2014,2014,47,2823836,1.7
+,Georgia,13,White,2106-3,Not Hispanic or Latino,2186-2,2015,2015,44,2834092,1.6
+,Georgia,13,White,2106-3,Not Hispanic or Latino,2186-2,2016,2016,24,2838518,0.8
+,Georgia,13,White,2106-3,Not Hispanic or Latino,2186-2,2017,2017,23,2843140,0.8
+,Georgia,13,White,2106-3,Not Hispanic or Latino,2186-2,2018,2018,23,2847605,0.8
+,Georgia,13,White,2106-3,Not Hispanic or Latino,2186-2,2019,2019,16,2856063,Unreliable
+,Illinois,17,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2009,2009,19,1005480,Unreliable
+,Illinois,17,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2011,2011,15,1007507,Unreliable
+,Illinois,17,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2012,2012,15,1004826,Unreliable
+,Illinois,17,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2014,2014,10,1000463,Unreliable
+,Illinois,17,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2015,2015,18,997787,Unreliable
+,Illinois,17,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2016,2016,13,992085,Unreliable
+,Illinois,17,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2017,2017,15,989756,Unreliable
+,Illinois,17,White,2106-3,Not Hispanic or Latino,2186-2,2009,2009,12,4227138,Unreliable
+,Illinois,17,White,2106-3,Not Hispanic or Latino,2186-2,2010,2010,15,4217903,Unreliable
+,Illinois,17,White,2106-3,Not Hispanic or Latino,2186-2,2011,2011,20,4200894,0.5
+,Illinois,17,White,2106-3,Not Hispanic or Latino,2186-2,2012,2012,11,4182868,Unreliable
+,Illinois,17,White,2106-3,Not Hispanic or Latino,2186-2,2013,2013,14,4164114,Unreliable
+,Illinois,17,White,2106-3,Not Hispanic or Latino,2186-2,2014,2014,14,4133362,Unreliable
+,Illinois,17,White,2106-3,Not Hispanic or Latino,2186-2,2015,2015,17,4097409,Unreliable
+,Illinois,17,White,2106-3,Not Hispanic or Latino,2186-2,2016,2016,11,4063270,Unreliable
+,Illinois,17,White,2106-3,Not Hispanic or Latino,2186-2,2017,2017,14,4040793,Unreliable
+,Illinois,17,White,2106-3,Not Hispanic or Latino,2186-2,2018,2018,13,4002831,Unreliable
+,Illinois,17,White,2106-3,Not Hispanic or Latino,2186-2,2019,2019,12,3966684,Unreliable
+,Indiana,18,White,2106-3,Not Hispanic or Latino,2186-2,2009,2009,12,2718402,Unreliable
+,Indiana,18,White,2106-3,Not Hispanic or Latino,2186-2,2011,2011,34,2721415,1.2
+,Indiana,18,White,2106-3,Not Hispanic or Latino,2186-2,2012,2012,30,2719519,1.1
+,Indiana,18,White,2106-3,Not Hispanic or Latino,2186-2,2013,2013,22,2721817,0.8
+,Indiana,18,White,2106-3,Not Hispanic or Latino,2186-2,2014,2014,29,2720820,1.1
+,Indiana,18,White,2106-3,Not Hispanic or Latino,2186-2,2015,2015,37,2718493,1.4
+,Indiana,18,White,2106-3,Not Hispanic or Latino,2186-2,2016,2016,39,2712509,1.4
+,Indiana,18,White,2106-3,Not Hispanic or Latino,2186-2,2017,2017,30,2712102,1.1
+,Indiana,18,White,2106-3,Not Hispanic or Latino,2186-2,2018,2018,17,2710703,Unreliable
+,Indiana,18,White,2106-3,Not Hispanic or Latino,2186-2,2019,2019,27,2713014,1
+,Kansas,20,White,2106-3,Not Hispanic or Latino,2186-2,2013,2013,10,1146863,Unreliable
+,Kentucky,21,White,2106-3,Not Hispanic or Latino,2186-2,2010,2010,13,1932780,Unreliable
+,Kentucky,21,White,2106-3,Not Hispanic or Latino,2186-2,2013,2013,18,1940010,Unreliable
+,Kentucky,21,White,2106-3,Not Hispanic or Latino,2186-2,2015,2015,12,1943448,Unreliable
+,Kentucky,21,White,2106-3,Not Hispanic or Latino,2186-2,2016,2016,22,1943890,1.1
+,Kentucky,21,White,2106-3,Not Hispanic or Latino,2186-2,2017,2017,16,1944441,Unreliable
+,Kentucky,21,White,2106-3,Not Hispanic or Latino,2186-2,2018,2018,23,1943695,1.2
+,Kentucky,21,White,2106-3,Not Hispanic or Latino,2186-2,2019,2019,16,1941173,Unreliable
+,Louisiana,22,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2012,2012,18,784676,Unreliable
+,Louisiana,22,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2013,2013,28,789385,3.5
+,Louisiana,22,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2014,2014,27,795368,3.4
+,Louisiana,22,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2015,2015,23,799349,2.9
+,Louisiana,22,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2016,2016,35,803237,4.4
+,Louisiana,22,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2017,2017,20,805564,2.5
+,Louisiana,22,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2018,2018,15,805195,Unreliable
+,Louisiana,22,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2019,2019,15,805404,Unreliable
+,Louisiana,22,White,2106-3,Not Hispanic or Latino,2186-2,2013,2013,16,1414066,Unreliable
+,Louisiana,22,White,2106-3,Not Hispanic or Latino,2186-2,2014,2014,11,1416174,Unreliable
+,Louisiana,22,White,2106-3,Not Hispanic or Latino,2186-2,2015,2015,16,1417530,Unreliable
+,Louisiana,22,White,2106-3,Not Hispanic or Latino,2186-2,2016,2016,18,1417028,Unreliable
+,Louisiana,22,White,2106-3,Not Hispanic or Latino,2186-2,2017,2017,19,1411908,Unreliable
+,Maryland,24,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2009,2009,10,914647,Unreliable
+,Maryland,24,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2010,2010,16,923604,Unreliable
+,Maryland,24,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2012,2012,14,940499,Unreliable
+,Maryland,24,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2014,2014,16,961395,Unreliable
+,Maryland,24,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2017,2017,14,988067,Unreliable
+,Maryland,24,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2019,2019,12,996064,Unreliable
+,Maryland,24,White,2106-3,Not Hispanic or Latino,2186-2,2011,2011,11,1646600,Unreliable
+,Massachusetts,25,White,2106-3,Not Hispanic or Latino,2186-2,2016,2016,12,2598971,Unreliable
+,Massachusetts,25,White,2106-3,Not Hispanic or Latino,2186-2,2017,2017,11,2589523,Unreliable
+,Michigan,26,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2009,2009,11,760281,Unreliable
+,Michigan,26,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2010,2010,17,760405,Unreliable
+,Michigan,26,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2011,2011,13,762152,Unreliable
+,Michigan,26,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2012,2012,11,762095,Unreliable
+,Michigan,26,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2013,2013,14,760446,Unreliable
+,Michigan,26,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2014,2014,13,760657,Unreliable
+,Michigan,26,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2016,2016,12,759300,Unreliable
+,Michigan,26,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2018,2018,10,762991,Unreliable
+,Michigan,26,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2019,2019,11,764067,Unreliable
+,Michigan,26,White,2106-3,Not Hispanic or Latino,2186-2,2009,2009,22,3906732,0.6
+,Michigan,26,White,2106-3,Not Hispanic or Latino,2186-2,2010,2010,27,3891872,0.7
+,Michigan,26,White,2106-3,Not Hispanic or Latino,2186-2,2011,2011,18,3874618,Unreliable
+,Michigan,26,White,2106-3,Not Hispanic or Latino,2186-2,2012,2012,18,3868194,Unreliable
+,Michigan,26,White,2106-3,Not Hispanic or Latino,2186-2,2013,2013,21,3862897,0.5
+,Michigan,26,White,2106-3,Not Hispanic or Latino,2186-2,2014,2014,15,3854733,Unreliable
+,Michigan,26,White,2106-3,Not Hispanic or Latino,2186-2,2015,2015,18,3845460,Unreliable
+,Michigan,26,White,2106-3,Not Hispanic or Latino,2186-2,2016,2016,25,3838575,0.7
+,Michigan,26,White,2106-3,Not Hispanic or Latino,2186-2,2017,2017,14,3838383,Unreliable
+,Michigan,26,White,2106-3,Not Hispanic or Latino,2186-2,2018,2018,20,3837454,0.5
+,Michigan,26,White,2106-3,Not Hispanic or Latino,2186-2,2019,2019,20,3826315,0.5
+,Minnesota,27,White,2106-3,Not Hispanic or Latino,2186-2,2011,2011,10,2263508,Unreliable
+,Minnesota,27,White,2106-3,Not Hispanic or Latino,2186-2,2016,2016,10,2273781,Unreliable
+,Minnesota,27,White,2106-3,Not Hispanic or Latino,2186-2,2017,2017,13,2277129,Unreliable
+,Mississippi,28,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2011,2011,12,590010,Unreliable
+,Mississippi,28,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2019,2019,16,598833,Unreliable
+,Missouri,29,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2012,2012,12,382741,Unreliable
+,Missouri,29,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2014,2014,10,387490,Unreliable
+,Missouri,29,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2015,2015,13,389878,Unreliable
+,Missouri,29,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2016,2016,13,391685,Unreliable
+,Missouri,29,White,2106-3,Not Hispanic or Latino,2186-2,2011,2011,14,2502128,Unreliable
+,Missouri,29,White,2106-3,Not Hispanic or Latino,2186-2,2012,2012,21,2501050,0.8
+,Missouri,29,White,2106-3,Not Hispanic or Latino,2186-2,2013,2013,22,2502057,0.9
+,Missouri,29,White,2106-3,Not Hispanic or Latino,2186-2,2014,2014,22,2500910,0.9
+,Missouri,29,White,2106-3,Not Hispanic or Latino,2186-2,2015,2015,18,2500871,Unreliable
+,Missouri,29,White,2106-3,Not Hispanic or Latino,2186-2,2016,2016,13,2499876,Unreliable
+,Missouri,29,White,2106-3,Not Hispanic or Latino,2186-2,2017,2017,18,2501554,Unreliable
+,Missouri,29,White,2106-3,Not Hispanic or Latino,2186-2,2018,2018,17,2501974,Unreliable
+,New Jersey,34,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2009,2009,12,620478,Unreliable
+,New Jersey,34,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2010,2010,14,623177,Unreliable
+,New Jersey,34,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2011,2011,20,624692,3.2
+,New Jersey,34,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2012,2012,15,627250,Unreliable
+,New Jersey,34,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2013,2013,30,629472,4.8
+,New Jersey,34,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2014,2014,26,633548,4.1
+,New Jersey,34,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2016,2016,20,633557,3.2
+,New Jersey,34,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2017,2017,14,635622,Unreliable
+,New Jersey,34,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2018,2018,16,629466,Unreliable
+,New Jersey,34,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2019,2019,14,628787,Unreliable
+,New Jersey,34,White,2106-3,Hispanic or Latino,2135-2,2016,2016,11,753308,Unreliable
+,New Jersey,34,White,2106-3,Hispanic or Latino,2135-2,2019,2019,11,783764,Unreliable
+,New Jersey,34,White,2106-3,Not Hispanic or Latino,2186-2,2009,2009,15,2733298,Unreliable
+,New Jersey,34,White,2106-3,Not Hispanic or Latino,2186-2,2011,2011,17,2696212,Unreliable
+,New Jersey,34,White,2106-3,Not Hispanic or Latino,2186-2,2012,2012,15,2678141,Unreliable
+,New Jersey,34,White,2106-3,Not Hispanic or Latino,2186-2,2013,2013,16,2657962,Unreliable
+,New Jersey,34,White,2106-3,Not Hispanic or Latino,2186-2,2014,2014,18,2634637,Unreliable
+,New Jersey,34,White,2106-3,Not Hispanic or Latino,2186-2,2015,2015,21,2611856,0.8
+,New Jersey,34,White,2106-3,Not Hispanic or Latino,2186-2,2016,2016,11,2586923,Unreliable
+,New Jersey,34,White,2106-3,Not Hispanic or Latino,2186-2,2017,2017,16,2573370,Unreliable
+,New Jersey,34,White,2106-3,Not Hispanic or Latino,2186-2,2018,2018,11,2536967,Unreliable
+,New York,36,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2009,2009,35,1563462,2.2
+,New York,36,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2010,2010,27,1569837,1.7
+,New York,36,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2011,2011,19,1576717,Unreliable
+,New York,36,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2012,2012,24,1583440,1.5
+,New York,36,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2013,2013,22,1588409,1.4
+,New York,36,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2014,2014,28,1601784,1.7
+,New York,36,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2015,2015,27,1602719,1.7
+,New York,36,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2016,2016,21,1597508,1.3
+,New York,36,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2017,2017,21,1605392,1.3
+,New York,36,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2018,2018,29,1575061,1.8
+,New York,36,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2019,2019,33,1564675,2.1
+,New York,36,White,2106-3,Hispanic or Latino,2135-2,2009,2009,13,1293824,Unreliable
+,New York,36,White,2106-3,Hispanic or Latino,2135-2,2010,2010,14,1310622,Unreliable
+,New York,36,White,2106-3,Hispanic or Latino,2135-2,2011,2011,15,1338579,Unreliable
+,New York,36,White,2106-3,Hispanic or Latino,2135-2,2012,2012,11,1360169,Unreliable
+,New York,36,White,2106-3,Hispanic or Latino,2135-2,2015,2015,11,1426893,Unreliable
+,New York,36,White,2106-3,Hispanic or Latino,2135-2,2016,2016,11,1432414,Unreliable
+,New York,36,White,2106-3,Hispanic or Latino,2135-2,2017,2017,10,1456828,Unreliable
+,New York,36,White,2106-3,Hispanic or Latino,2135-2,2019,2019,16,1439112,Unreliable
+,New York,36,White,2106-3,Not Hispanic or Latino,2186-2,2009,2009,18,5900136,Unreliable
+,New York,36,White,2106-3,Not Hispanic or Latino,2186-2,2010,2010,18,5882534,Unreliable
+,New York,36,White,2106-3,Not Hispanic or Latino,2186-2,2011,2011,22,5853185,0.4
+,New York,36,White,2106-3,Not Hispanic or Latino,2186-2,2012,2012,19,5838748,Unreliable
+,New York,36,White,2106-3,Not Hispanic or Latino,2186-2,2013,2013,27,5817668,0.5
+,New York,36,White,2106-3,Not Hispanic or Latino,2186-2,2014,2014,21,5780651,0.4
+,New York,36,White,2106-3,Not Hispanic or Latino,2186-2,2015,2015,18,5741512,Unreliable
+,New York,36,White,2106-3,Not Hispanic or Latino,2186-2,2016,2016,25,5697456,0.4
+,New York,36,White,2106-3,Not Hispanic or Latino,2186-2,2017,2017,14,5679233,Unreliable
+,New York,36,White,2106-3,Not Hispanic or Latino,2186-2,2018,2018,28,5607214,0.5
+,New York,36,White,2106-3,Not Hispanic or Latino,2186-2,2019,2019,23,5569219,0.4
+,North Carolina,37,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2009,2009,10,1096330,Unreliable
+,North Carolina,37,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2014,2014,21,1164077,1.8
+,North Carolina,37,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2015,2015,17,1177593,Unreliable
+,North Carolina,37,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2016,2016,16,1194060,Unreliable
+,North Carolina,37,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2017,2017,21,1207429,1.7
+,North Carolina,37,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2018,2018,11,1221722,Unreliable
+,North Carolina,37,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2019,2019,22,1234730,1.8
+,North Carolina,37,White,2106-3,Not Hispanic or Latino,2186-2,2014,2014,10,3303446,Unreliable
+,North Carolina,37,White,2106-3,Not Hispanic or Latino,2186-2,2015,2015,20,3320433,0.6
+,North Carolina,37,White,2106-3,Not Hispanic or Latino,2186-2,2016,2016,18,3347791,Unreliable
+,North Carolina,37,White,2106-3,Not Hispanic or Latino,2186-2,2017,2017,12,3365391,Unreliable
+,North Carolina,37,White,2106-3,Not Hispanic or Latino,2186-2,2018,2018,12,3388147,Unreliable
+,North Carolina,37,White,2106-3,Not Hispanic or Latino,2186-2,2019,2019,16,3411460,Unreliable
+,Ohio,39,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2009,2009,15,766387,Unreliable
+,Ohio,39,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2012,2012,17,778183,Unreliable
+,Ohio,39,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2013,2013,13,783941,Unreliable
+,Ohio,39,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2015,2015,17,798519,Unreliable
+,Ohio,39,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2017,2017,11,813260,Unreliable
+,Ohio,39,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2019,2019,14,825306,Unreliable
+,Ohio,39,White,2106-3,Not Hispanic or Latino,2186-2,2009,2009,40,4846035,0.8
+,Ohio,39,White,2106-3,Not Hispanic or Latino,2186-2,2010,2010,30,4836623,0.6
+,Ohio,39,White,2106-3,Not Hispanic or Latino,2186-2,2011,2011,26,4825013,0.5
+,Ohio,39,White,2106-3,Not Hispanic or Latino,2186-2,2012,2012,20,4808140,0.4
+,Ohio,39,White,2106-3,Not Hispanic or Latino,2186-2,2013,2013,16,4800065,Unreliable
+,Ohio,39,White,2106-3,Not Hispanic or Latino,2186-2,2014,2014,14,4786832,Unreliable
+,Ohio,39,White,2106-3,Not Hispanic or Latino,2186-2,2015,2015,21,4774017,0.4
+,Ohio,39,White,2106-3,Not Hispanic or Latino,2186-2,2016,2016,23,4755008,0.5
+,Ohio,39,White,2106-3,Not Hispanic or Latino,2186-2,2017,2017,30,4750701,0.6
+,Ohio,39,White,2106-3,Not Hispanic or Latino,2186-2,2018,2018,18,4740025,Unreliable
+,Ohio,39,White,2106-3,Not Hispanic or Latino,2186-2,2019,2019,32,4726696,0.7
+,Oklahoma,40,White,2106-3,Not Hispanic or Latino,2186-2,2009,2009,18,1362631,Unreliable
+,Oklahoma,40,White,2106-3,Not Hispanic or Latino,2186-2,2010,2010,15,1366828,Unreliable
+,Oklahoma,40,White,2106-3,Not Hispanic or Latino,2186-2,2011,2011,12,1372293,Unreliable
+,Oklahoma,40,White,2106-3,Not Hispanic or Latino,2186-2,2012,2012,11,1373909,Unreliable
+,Oklahoma,40,White,2106-3,Not Hispanic or Latino,2186-2,2013,2013,13,1379661,Unreliable
+,Oklahoma,40,White,2106-3,Not Hispanic or Latino,2186-2,2016,2016,10,1380130,Unreliable
+,Oklahoma,40,White,2106-3,Not Hispanic or Latino,2186-2,2017,2017,14,1373135,Unreliable
+,Oklahoma,40,White,2106-3,Not Hispanic or Latino,2186-2,2018,2018,13,1371395,Unreliable
+,Pennsylvania,42,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2009,2009,14,725071,Unreliable
+,Pennsylvania,42,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2010,2010,13,729717,Unreliable
+,Pennsylvania,42,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2013,2013,11,743226,Unreliable
+,Pennsylvania,42,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2016,2016,15,752829,Unreliable
+,Pennsylvania,42,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2017,2017,10,759276,Unreliable
+,Pennsylvania,42,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2018,2018,10,761949,Unreliable
+,Pennsylvania,42,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2019,2019,14,765686,Unreliable
+,Pennsylvania,42,White,2106-3,Not Hispanic or Latino,2186-2,2009,2009,21,5236153,0.4
+,Pennsylvania,42,White,2106-3,Not Hispanic or Latino,2186-2,2010,2010,19,5228101,Unreliable
+,Pennsylvania,42,White,2106-3,Not Hispanic or Latino,2186-2,2011,2011,15,5217281,Unreliable
+,Pennsylvania,42,White,2106-3,Not Hispanic or Latino,2186-2,2012,2012,19,5195641,Unreliable
+,Pennsylvania,42,White,2106-3,Not Hispanic or Latino,2186-2,2013,2013,20,5169907,0.4
+,Pennsylvania,42,White,2106-3,Not Hispanic or Latino,2186-2,2014,2014,23,5140778,0.4
+,Pennsylvania,42,White,2106-3,Not Hispanic or Latino,2186-2,2015,2015,15,5113539,Unreliable
+,Pennsylvania,42,White,2106-3,Not Hispanic or Latino,2186-2,2016,2016,22,5080444,0.4
+,Pennsylvania,42,White,2106-3,Not Hispanic or Latino,2186-2,2017,2017,28,5054614,0.6
+,Pennsylvania,42,White,2106-3,Not Hispanic or Latino,2186-2,2018,2018,15,5026742,Unreliable
+,Pennsylvania,42,White,2106-3,Not Hispanic or Latino,2186-2,2019,2019,21,5001829,0.4
+,South Carolina,45,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2009,2009,10,689887,Unreliable
+,South Carolina,45,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2011,2011,18,700271,Unreliable
+,South Carolina,45,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2013,2013,14,709590,Unreliable
+,South Carolina,45,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2014,2014,17,716223,Unreliable
+,South Carolina,45,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2016,2016,14,728010,Unreliable
+,South Carolina,45,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2017,2017,15,734227,Unreliable
+,South Carolina,45,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2019,2019,13,744682,Unreliable
+,South Carolina,45,White,2106-3,Not Hispanic or Latino,2186-2,2009,2009,10,1524203,Unreliable
+,South Carolina,45,White,2106-3,Not Hispanic or Latino,2186-2,2015,2015,11,1615447,Unreliable
+,South Carolina,45,White,2106-3,Not Hispanic or Latino,2186-2,2016,2016,13,1640592,Unreliable
+,South Carolina,45,White,2106-3,Not Hispanic or Latino,2186-2,2019,2019,10,1701347,Unreliable
+,Tennessee,47,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2012,2012,16,586578,Unreliable
+,Tennessee,47,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2015,2015,13,602503,Unreliable
+,Tennessee,47,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2017,2017,10,613639,Unreliable
+,Tennessee,47,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2018,2018,14,618282,Unreliable
+,Tennessee,47,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2019,2019,11,623876,Unreliable
+,Tennessee,47,White,2106-3,Not Hispanic or Latino,2186-2,2012,2012,23,2510130,0.9
+,Tennessee,47,White,2106-3,Not Hispanic or Latino,2186-2,2013,2013,18,2520172,Unreliable
+,Tennessee,47,White,2106-3,Not Hispanic or Latino,2186-2,2014,2014,15,2532642,Unreliable
+,Tennessee,47,White,2106-3,Not Hispanic or Latino,2186-2,2015,2015,14,2543885,Unreliable
+,Tennessee,47,White,2106-3,Not Hispanic or Latino,2186-2,2016,2016,13,2558371,Unreliable
+,Tennessee,47,White,2106-3,Not Hispanic or Latino,2186-2,2017,2017,25,2572069,1
+,Tennessee,47,White,2106-3,Not Hispanic or Latino,2186-2,2018,2018,12,2586269,Unreliable
+,Tennessee,47,White,2106-3,Not Hispanic or Latino,2186-2,2019,2019,11,2601080,Unreliable
+,Texas,48,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2009,2009,35,1514014,2.3
+,Texas,48,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2010,2010,25,1536356,1.6
+,Texas,48,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2011,2011,41,1568577,2.6
+,Texas,48,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2012,2012,50,1604937,3.1
+,Texas,48,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2013,2013,42,1638960,2.6
+,Texas,48,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2014,2014,37,1677410,2.2
+,Texas,48,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2015,2015,54,1715999,3.1
+,Texas,48,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2016,2016,49,1751635,2.8
+,Texas,48,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2017,2017,44,1789529,2.5
+,Texas,48,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2018,2018,24,1829475,1.3
+,Texas,48,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2019,2019,22,1863476,1.2
+,Texas,48,White,2106-3,Hispanic or Latino,2135-2,2009,2009,41,4380254,0.9
+,Texas,48,White,2106-3,Hispanic or Latino,2135-2,2010,2010,33,4481858,0.7
+,Texas,48,White,2106-3,Hispanic or Latino,2135-2,2011,2011,25,4627503,0.5
+,Texas,48,White,2106-3,Hispanic or Latino,2135-2,2012,2012,49,4704348,1
+,Texas,48,White,2106-3,Hispanic or Latino,2135-2,2013,2013,55,4788569,1.1
+,Texas,48,White,2106-3,Hispanic or Latino,2135-2,2014,2014,50,4927137,1
+,Texas,48,White,2106-3,Hispanic or Latino,2135-2,2015,2015,41,5049228,0.8
+,Texas,48,White,2106-3,Hispanic or Latino,2135-2,2016,2016,49,5149588,1
+,Texas,48,White,2106-3,Hispanic or Latino,2135-2,2017,2017,54,5269793,1
+,Texas,48,White,2106-3,Hispanic or Latino,2135-2,2018,2018,36,5367475,0.7
+,Texas,48,White,2106-3,Hispanic or Latino,2135-2,2019,2019,33,5442167,0.6
+,Texas,48,White,2106-3,Not Hispanic or Latino,2186-2,2009,2009,44,5849237,0.8
+,Texas,48,White,2106-3,Not Hispanic or Latino,2186-2,2010,2010,41,5867780,0.7
+,Texas,48,White,2106-3,Not Hispanic or Latino,2186-2,2011,2011,60,5913361,1
+,Texas,48,White,2106-3,Not Hispanic or Latino,2186-2,2012,2012,55,5945703,0.9
+,Texas,48,White,2106-3,Not Hispanic or Latino,2186-2,2013,2013,64,5981596,1.1
+,Texas,48,White,2106-3,Not Hispanic or Latino,2186-2,2014,2014,58,6029266,1
+,Texas,48,White,2106-3,Not Hispanic or Latino,2186-2,2015,2015,58,6075515,1
+,Texas,48,White,2106-3,Not Hispanic or Latino,2186-2,2016,2016,51,6105304,0.8
+,Texas,48,White,2106-3,Not Hispanic or Latino,2186-2,2017,2017,47,6115217,0.8
+,Texas,48,White,2106-3,Not Hispanic or Latino,2186-2,2018,2018,31,6130564,0.5
+,Texas,48,White,2106-3,Not Hispanic or Latino,2186-2,2019,2019,31,6153011,0.5
+,Utah,49,White,2106-3,Not Hispanic or Latino,2186-2,2013,2013,13,1170954,Unreliable
+,Utah,49,White,2106-3,Not Hispanic or Latino,2186-2,2015,2015,11,1197984,Unreliable
+,Utah,49,White,2106-3,Not Hispanic or Latino,2186-2,2019,2019,10,1262201,Unreliable
+,Virginia,51,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2015,2015,13,866174,Unreliable
+,Virginia,51,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2016,2016,19,871315,Unreliable
+,Virginia,51,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2017,2017,10,878415,Unreliable
+,Virginia,51,Black or African American,2054-5,Not Hispanic or Latino,2186-2,2019,2019,15,886772,Unreliable
+,Virginia,51,White,2106-3,Not Hispanic or Latino,2186-2,2015,2015,13,2709251,Unreliable
+,Virginia,51,White,2106-3,Not Hispanic or Latino,2186-2,2016,2016,27,2708821,1
+,Virginia,51,White,2106-3,Not Hispanic or Latino,2186-2,2017,2017,27,2704481,1
+,Virginia,51,White,2106-3,Not Hispanic or Latino,2186-2,2019,2019,11,2700611,Unreliable
+,Washington,53,White,2106-3,Not Hispanic or Latino,2186-2,2011,2011,11,2541622,Unreliable
+,Washington,53,White,2106-3,Not Hispanic or Latino,2186-2,2013,2013,14,2555560,Unreliable
+,Washington,53,White,2106-3,Not Hispanic or Latino,2186-2,2014,2014,11,2564579,Unreliable
+,Washington,53,White,2106-3,Not Hispanic or Latino,2186-2,2017,2017,13,2629260,Unreliable
+,Washington,53,White,2106-3,Not Hispanic or Latino,2186-2,2018,2018,13,2648026,Unreliable
+,Washington,53,White,2106-3,Not Hispanic or Latino,2186-2,2019,2019,17,2655936,Unreliable
+,West Virginia,54,White,2106-3,Not Hispanic or Latino,2186-2,2018,2018,10,853052,Unreliable
+,Wisconsin,55,White,2106-3,Not Hispanic or Latino,2186-2,2009,2009,10,2415979,Unreliable
+,Wisconsin,55,White,2106-3,Not Hispanic or Latino,2186-2,2011,2011,10,2415781,Unreliable
+,Wisconsin,55,White,2106-3,Not Hispanic or Latino,2186-2,2014,2014,13,2409803,Unreliable
+,Wisconsin,55,White,2106-3,Not Hispanic or Latino,2186-2,2015,2015,10,2405076,Unreliable
+---,,,,,,,,,,,
+"Dataset: Underlying Cause of Death, 1999-2019",,,,,,,,,,,
+Query Parameters:,,,,,,,,,,,
+Gender: Female,,,,,,,,,,,
+"ICD-10 Codes: A34 (Obstetrical tetanus); O00-O99 (Pregnancy, childbirth and the puerperium)",,,,,,,,,,,
+Year/Month: 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019,,,,,,,,,,,
+Group By: State; Race; Hispanic Origin; Year,,,,,,,,,,,
+Show Totals: Disabled,,,,,,,,,,,
+Show Zero Values: True,,,,,,,,,,,
+Show Suppressed: False,,,,,,,,,,,
+"Calculate Rates Per: 100,000",,,,,,,,,,,
+Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups),,,,,,,,,,,
+---,,,,,,,,,,,
+Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information.,,,,,,,,,,,
+---,,,,,,,,,,,
+"Query Date: Feb 7, 2021 9:28:51 PM",,,,,,,,,,,
+---,,,,,,,,,,,
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death",,,,,,,,,,,
+"1999-2019 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2019, as",,,,,,,,,,,
+compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed,,,,,,,,,,,
+"at http://wonder.cdc.gov/ucd-icd10.html on Feb 7, 2021 9:28:51 PM",,,,,,,,,,,
+---,,,,,,,,,,,
+Messages:,,,,,,,,,,,
+1. Totals are not available for these results due to suppression constraints. More Information:,,,,,,,,,,,
+http://wonder.cdc.gov/wonder/help/faq.html#Privacy.,,,,,,,,,,,
+2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows.,,,,,,,,,,,
+---,,,,,,,,,,,
+Caveats:,,,,,,,,,,,
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:",,,,,,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision.,,,,,,,,,,,
+2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of,,,,,,,,,,,
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data.",,,,,,,,,,,
+More information: http://wonder.cdc.gov/wonder/help/ucd.html#Georgia-Reporting-Anomalies.,,,,,,,,,,,
+3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code,,,,,,,,,,,
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,",,,,,,,,,,,
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in",,,,,,,,,,,
+interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#New-Jersey-Reporting-Anomalies.,,,,,,,,,,,
+4. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:,,,,,,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality.,,,,,,,,,,,
+5. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:,,,,,,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable.,,,,,,,,,,,
+"6. Deaths of persons with Hispanic origin ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among",,,,,,,,,,,
+"Hispanic Origin groups, so are not included in the Hispanic Origin specific counts and rates. More information:",,,,,,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated.,,,,,,,,,,,
+7. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the,,,,,,,,,,,
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis",,,,,,,,,,,
+of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin,,,,,,,,,,,
+"are inconsistent between these two data sources, death rates will be biased. More information:",,,,,,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd.html#Racial Differences.,,,,,,,,,,,
+"8. The population figures for year 2019 are bridged-race estimates of the July 1 resident population, from the Vintage 2019",,,,,,,,,,,
+"postcensal series released by NCHS on July 9, 2020. The population figures for year 2018 are bridged-race estimates of the July",,,,,,,,,,,
+"1 resident population, from the Vintage 2018 postcensal series released by NCHS on June 25, 2019. The population figures for",,,,,,,,,,,
+"year 2017 are bridged-race estimates of the July 1 resident population, from the Vintage 2017 postcensal series released by NCHS",,,,,,,,,,,
+"on June 27, 2018. The population figures for year 2016 are bridged-race estimates of the July 1 resident population, from the",,,,,,,,,,,
+"Vintage 2016 postcensal series released by NCHS on June 26, 2017. The population figures for year 2015 are bridged-race",,,,,,,,,,,
+"estimates of the July 1 resident population, from the Vintage 2015 postcensal series released by NCHS on June 28, 2016. The",,,,,,,,,,,
+"population figures for year 2014 are bridged-race estimates of the July 1 resident population, from the Vintage 2014 postcensal",,,,,,,,,,,
+"series released by NCHS on June 30, 2015. The population figures for year 2013 are bridged-race estimates of the July 1 resident",,,,,,,,,,,
+"population, from the Vintage 2013 postcensal series released by NCHS on June 26, 2014. The population figures for year 2012 are",,,,,,,,,,,
+"bridged-race estimates of the July 1 resident population, from the Vintage 2012 postcensal series released by NCHS on June 13,",,,,,,,,,,,
+"2013. The population figures for year 2011 are bridged-race estimates of the July 1 resident population, from the Vintage 2011",,,,,,,,,,,
+"postcensal series released by NCHS on July 18, 2012. Population figures for 2010 are April 1 Census counts. The population",,,,,,,,,,,
+"figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident population, from the revised intercensal",,,,,,,,,,,
+"county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population figures for 2000 are April 1 Census counts.",,,,,,,,,,,
+Population figures for 1999 are from the 1990-1999 intercensal series of July 1 estimates. Population figures for the infant age,,,,,,,,,,,
+groups are the number of live births. <br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from,,,,,,,,,,,
+"previously published reports, due to use of the population estimates which were available at the time of release.",,,,,,,,,,,
+9. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the,,,,,,,,,,,
+resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group.,,,,,,,,,,,
+10. Changes to cause of death classification affect reporting trends. More information:,,,,,,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes.,,,,,,,,,,,

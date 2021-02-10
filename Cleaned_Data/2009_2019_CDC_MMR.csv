@@ -1,4 +1,4 @@
-State,State_Code,Year,Deaths,Births,Maternal_Mortality_Ratio,Population
+state,state_code,year,deaths,births,maternal_mortality_ratio,population
 Alabama,1,2015,12,59657,20.11,2505795
 Alabama,1,2016,35,59151,59.17,2507714
 Alabama,1,2017,41,58941,69.56,2514911
